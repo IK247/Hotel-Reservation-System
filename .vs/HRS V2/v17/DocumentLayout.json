@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3294DFC-E086-45D4-991C-12F96A6338F6}|HRS V2.csproj|c:\\users\\ikyol\\desktop\\thomas_more_work\\old 1\\inspiration\\hrs v2\\data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3294DFC-E086-45D4-991C-12F96A6338F6}|HRS V2.csproj|solutionrelative:data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3294DFC-E086-45D4-991C-12F96A6338F6}|HRS V2.csproj|C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\bookingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3294DFC-E086-45D4-991C-12F96A6338F6}|HRS V2.csproj|solutionrelative:bookingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3294DFC-E086-45D4-991C-12F96A6338F6}|HRS V2.csproj|C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3294DFC-E086-45D4-991C-12F96A6338F6}|HRS V2.csproj|solutionrelative:usersession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3294DFC-E086-45D4-991C-12F96A6338F6}|HRS V2.csproj|C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3294DFC-E086-45D4-991C-12F96A6338F6}|HRS V2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSession.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\UserSession.cs",
+              "RelativeDocumentMoniker": "UserSession.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\UserSession.cs",
+              "RelativeToolTip": "UserSession.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:08:58.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\BookingForm.Designer.cs",
+              "RelativeDocumentMoniker": "BookingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\BookingForm.Designer.cs",
+              "RelativeToolTip": "BookingForm.Designer.cs",
+              "ViewState": "AQIAABQBAAAAAAAAAAAiwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-11-21T23:08:58.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Data.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\Data.cs",
+              "RelativeDocumentMoniker": "Data.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\Data.cs",
+              "RelativeToolTip": "Data.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:08:58.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ikYOL\\Desktop\\Thomas_More_Work\\OLD 1\\Inspiration\\HRS V2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:08:58.421Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
